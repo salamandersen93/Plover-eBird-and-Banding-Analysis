@@ -1,0 +1,205 @@
+﻿"   ",COUNTRY_NAME,STATE_NAME,ISO_COUNTRY_CODE,ISO_SUBDIVISION_CODE
+1,AT SEA,,AA,
+2,Angola,,AO,
+3,Anguilla,,AI,
+4,Antarctica,,AQ,
+5,Antigua And Barbuda,,AG,
+6,Argentina,,AR,
+7,Aruba,,NL,
+8,Ashmore and Cartier Islands,,AU,
+9,Australia,,AU,
+10,"Bahamas, The",,BS,
+11,Barbados,,BB,
+12,Bassas da India,,FR,
+13,Belarus,,BY,
+14,Belgium,,BE,
+15,Belize,,BZ,
+16,Benin,,BJ,
+17,Bermuda,,BM,
+18,Bolivia,,BO,
+19,Brazil,,BR,
+20,British Virgin Islands,,VG,
+21,Cameroon,,CM,
+22,Canada,Alberta,CA,CA-AB
+23,Canada,British Columbia,CA,CA-BC
+24,Canada,Manitoba,CA,CA-MB
+25,Canada,New Brunswick,CA,CA-NB
+26,Canada,Newfoundland and Labrador,CA,CA-NL
+27,Canada,Northwest Territories,CA,CA-NT
+28,Canada,Nova Scotia,CA,CA-NS
+29,Canada,Nunavut,CA,CA-NU
+30,Canada,Ontario,CA,CA-ON
+31,Canada,Prince Edward Island,CA,CA-PE
+32,Canada,Québec,CA,CA-QC
+33,Canada,Saskatchewan,CA,CA-SK
+34,Canada,Yukon Territory,CA,CA-YT
+35,Canada,,CA,CA
+36,Cayman Islands,,KY,
+37,Chile,,CL,
+38,China,,CN,
+39,Clipperton Island,,FR,
+40,Colombia,,CO,
+41,Cook Islands,,CK,
+42,Coral Sea Islands,,AU,
+43,Costa Rica,,CR,
+44,Cote D'Ivoire,,CI,
+45,Cuba,,CU,
+46,Denmark,,DK,
+47,Dominica,,DM,
+48,Dominican Republic,,DO,
+49,Ecuador,,EC,
+50,El Salvador,,SV,
+51,Equatorial Guinea,,GQ,
+52,Eritrea,,ER,
+53,Europa Island,,FR,
+54,Falkland Islands (Islas Malvinas),,FK,
+55,Faroe Islands,,FO,
+56,Federated States Of Micronesia,,FM,
+57,Fiji,,FJ,
+58,France,,FR,
+59,French Guiana,,FR,
+60,French Polynesia,,FR,
+61,French Southern and Antarctic Lands,,TF,
+62,Ghana,,GH,
+63,Glorioso Islands,,FR,
+64,Greenland,,GL,
+65,Grenada,,GD,
+66,Guadeloupe,,FR,
+67,Guatemala,,GT,
+68,Guernsey,,GG,
+69,Guyana,,GY,
+70,Haiti,,HT,
+71,Honduras,,HN,
+72,Hong Kong,,CN,
+73,Iceland,,IS,
+74,Indonesia,,ID,
+75,Ireland,,IE,
+76,Italy,,IT,
+77,Jamaica,,JM,
+78,Jan Mayen,,NO,
+79,Japan,,JP,
+80,Jersey,,JE,
+81,Johnston Atoll,,US,
+82,Juan de Nova Island,,FR,
+83,Kiribati,,KI,
+84,Liberia,,LR,
+85,Macau,,CN,
+86,Marshall Islands,,MH,
+87,Martinique,,FR,
+88,Mauritius,,MU,
+89,Mayotte,,FR,
+90,Mexico,,MX,
+91,Montserrat,,MS,
+92,Morocco,,MA,
+93,Namibia,,NA,
+94,Nauru,,NR,
+95,Netherlands,,NL,
+96,Netherlands Antilles,,NL,
+97,New Caledonia,,FR,
+98,New Zealand,,NZ,
+99,Nicaragua,,NI,
+100,Nigeria,,NG,
+101,Niue,,NU,
+102,Northern Mariana Islands,,US,
+103,Norway,,NO,
+104,Panama,,PA,
+105,Papua New Guinea,,PG,
+106,Paracel Islands,,CN,
+107,Paraguay,,PY,
+108,Peru,,PE,
+109,Philippines,,PH,
+110,Portugal,,PT,
+111,Republic of the Congo,,CG,
+112,Reunion,,FR,
+113,Russia,,RU,
+114,Senegal,,SN,
+115,Seychelles,,SC,
+116,Sierra Leone,,SL,
+117,Solomon Islands,,SB,
+118,South Africa,,ZA,
+119,South Georgia and The South Sandwich Islands,,GS,
+120,South Korea,,KR,
+121,Spain,,ES,
+122,Spratly Islands,,CN,
+123,St. Helena,,SH,
+124,St. Kitts and Nevis,,KN,
+125,St. Lucia,,LC,
+126,St. Pierre And Miquelon,,FR,
+127,St. Vincent and The Grenadines,,VC,
+128,Suriname,,SR,
+129,Svalbard,,NO,
+130,Switzerland,,CH,
+131,Togo,,TG,
+132,Tokelau,,TK,
+133,Tonga,,TO,
+134,Trinidad And Tobago,,TT,
+135,Tromelin Island,,FR,
+136,Trust Territory of the Pacific Islands (Palau),,PW,
+137,Turks and Caicos Islands,,TC,
+138,Tuvalu,,TV,
+139,UNKNOWN,,ZZ,
+140,United Kingdom,,GB,
+141,United States,Alabama,US,US-AL
+142,United States,Alaska,US,US-AK
+143,United States,American Samoa,US,US-AS
+144,United States,Arizona,US,US-AZ
+145,United States,Arkansas,US,US-AR
+146,United States,California,US,US-CA
+147,United States,Colorado,US,US-CO
+148,United States,Connecticut,US,US-CT
+149,United States,Delaware,US,US-DE
+150,United States,District of Columbia,US,US-DC
+151,United States,Florida,US,US-FL
+152,United States,Georgia,US,US-GA
+153,United States,Guam,US,US-GU
+154,United States,Hawaii,US,US-HI
+155,United States,Idaho,US,US-ID
+156,United States,Illinois,US,US-IL
+157,United States,Indiana,US,US-IN
+158,United States,Iowa,US,US-IA
+159,United States,Kansas,US,US-KS
+160,United States,Kentucky,US,US-KY
+161,United States,Louisiana,US,US-LA
+162,United States,Maine,US,US-ME
+163,United States,Maryland,US,US-MD
+164,United States,Massachusetts,US,US-MA
+165,United States,Michigan,US,US-MI
+166,United States,Minnesota,US,US-MN
+167,United States,Mississippi,US,US-MS
+168,United States,Missouri,US,US-MO
+169,United States,Montana,US,US-MT
+170,United States,Nebraska,US,US-NE
+171,United States,Nevada,US,US-NV
+172,United States,New Hampshire,US,US-NH
+173,United States,New Jersey,US,US-NJ
+174,United States,New Mexico,US,US-NM
+175,United States,New York,US,US-NY
+176,United States,North Carolina,US,US-NC
+177,United States,North Dakota,US,US-ND
+178,United States,Northern Mariana Islands,US,US-MP
+179,United States,Ohio,US,US-OH
+180,United States,Oklahoma,US,US-OK
+181,United States,Oregon,US,US-OR
+182,United States,Pennsylvania,US,US-PA
+183,United States,Puerto Rico,US,US-PR
+184,United States,Rhode Island,US,US-RI
+185,United States,South Carolina,US,US-SC
+186,United States,South Dakota,US,US-SD
+187,United States,Tennessee,US,US-TN
+188,United States,Texas,US,US-TX
+189,United States,U.S. Minor Outlying Islands,US,US-UM
+190,United States,Utah,US,US-UT
+191,United States,Vermont,US,US-VT
+192,United States,Virgin Islands of the United States,US,US-VI
+193,United States,Virginia,US,US-VA
+194,United States,Washington,US,US-WA
+195,United States,West Virginia,US,US-WV
+196,United States,Wisconsin,US,US-WI
+197,United States,Wyoming,US,US-WY
+198,United States,,US,US
+199,Uruguay,,UY,
+200,Vanuatu,,VU,
+201,Venezuela,,VE,
+202,Vietnam,,VN,
+203,Wallis and Futuna,,FR,
+204,Western Samoa,,WS,
