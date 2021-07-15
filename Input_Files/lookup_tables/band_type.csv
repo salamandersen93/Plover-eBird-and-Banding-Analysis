@@ -1,0 +1,78 @@
+﻿"   ",BAND_TYPE_CODE,BAND_TYPE_DESCRIPTION,BAND_CLOSURE
+1,41,aluminum\butt-end (toll-free /web address),BE
+2,42,aluminum\lock-on (toll-free /web address),LO
+3,46,aluminum\rivet (toll-free /web address),RI
+4,47,aluminum\short (toll-free /web address),SB
+5,81,stainless steel (web address),BE
+6,00,unknown\unknown,
+7,01,aluminum\butt-end toll free,BE
+8,02,aluminum\lock-on toll free,LO
+9,03,aluminum\tall toll free,BE
+10,04,aluminum\butt-end new address,BE
+11,05,aluminum\lock-on new address,LO
+12,06,aluminum\rivet toll free,RI
+13,07,aluminum\short toll free,SB
+14,08,aluminum\pre-open toll free,BE
+15,09,aluminum\short new address,SB
+16,10,aluminum\rivet new address,RI
+17,11,aluminum\butt end,BE
+18,12,aluminum\lock-on,LO
+19,13,aluminum\tall,BE
+20,14,aluminum\wrap around,WA
+21,15,aluminum\flipper,FL
+22,16,aluminum\rivet,RI
+23,17,aluminum\short,SB
+24,18,aluminum\pre-open,BE
+25,19,aluminum\tall new address,BE
+26,20,aluminum\pre-open new address,BE
+27,21,monel\butt end,BE
+28,22,monel\lock-on,LO
+29,23,monel\butt-end toll free,BE
+30,24,monel\lock-on toll free,LO
+31,28,monel\pre-open,BE
+32,29,monel\pre-open toll free,BE
+33,31,titanium\butt end,BE
+34,49,incoloy or Stainless\new address,BE
+35,50,incoloy or Stainless\butt-end new address,BE
+36,51,incoloy or Stainless\butt-end,BE
+37,52,incoloy or Stainless\lock-on,LO
+38,53,incoloy or Stainless\butt-end toll free,BE
+39,54,incoloy or Stainless\lock-on toll free,LO
+40,55,incoloy or Stainless\flipper,FL
+41,56,incoloy or Stainless\rivet,RI
+42,57,incoloy or Stainless\rivet toll free,RI
+43,58,incoloy or Stainless\triangular toll free,BE
+44,59,incoloy or Stainless\triangular,BE
+45,60,bimetallic\no address,BE
+46,61,bimetallic\butt end,BE
+47,62,bimetallic\lock-on,LO
+48,63,bimetallic\tall,
+49,64,incoloy or Stainless\triangular new address,BE
+50,66,bimetallic\rivet,RI
+51,67,bimetallic\short,SB
+52,68,bimetallic\pre-open,BE
+53,71,bimetallic\butt end toll free,BE
+54,72,bimetallic\lock-on toll free,LO
+55,73,bimetallic\tall toll free,
+56,76,bimetallic\rivet toll free,RI
+57,77,bimetallic\short toll free,SB
+58,78,bimetallic\pre-open toll free,BE
+59,91,misc\butt end,BE
+60,92,Frigate\Parrot band\no address,BE
+61,93,Aluminum Plasticine-filled Duckling Band\toll-free,DU
+62,94,aluminum\butt-end Bowie address,BE
+63,95,plastic glue\butt-end raptor band (non-conductive),BE
+64,99,No band manufactured (e.g. vulture bands),VU
+65,82,incoloy (web address),BE
+66,98,Banding Mortality (No band manufactured),
+67,83,Flat-Locking Tab (hard metal),
+68,W1,Aluminum butt-end web address,BE
+69,W2,Aluminum lock-on web address,LO
+70,W3,Aluminum Rivet web address,RI
+71,W4,Aluminum Short web address,SB
+72,W5,Stainless Steel butt-end web address,BE
+73,W6,Incoloy butt-end web address,BE
+74,W7,Flat Locking Tab stainless steel web address,
+75,W8,Pre-opened stainless-steel web-address,BE
+76,W9,Pre-opened incoloy web-address,BE
+77,W0,Incoloy\triangular web address,BE
